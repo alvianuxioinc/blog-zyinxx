@@ -1,9 +1,9 @@
 ---
 layout: page
-title: About
+title: 
 permalink: /about/
 ---
-
+### ZYINXX STORE
 SOLUS PANEL SERVER HOSTING
 
 ### INFO SELENGKAPNYA
