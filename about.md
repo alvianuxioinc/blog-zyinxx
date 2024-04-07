@@ -40,7 +40,7 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 
 ┆ ➥ 2GiB/40% CPU  [3K]
 
-┆ ➥ 3Gib/50%      [4K]
+┆ ➥ 3Gib/50% CPU  [4K]
 
 ┆→ ≣ PAKET 2:
 
