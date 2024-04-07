@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+SOLUS PANEL SERVER HOSTING
 
 ### INFO SELENGKAPNYA
 
@@ -65,7 +65,7 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 ┆ ➥ BONUS SC BOT WA
 
 ╰–––––––––––––––––––––––––––
-### ––『 ✎ NOTES 』––
+### NOTES
 *Keuntungan:*
 
 ✬ Panel On 24/7 
@@ -80,15 +80,14 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 
 ✬ Pastinya Setiap Pembelian Di Sini Anda Akan Mendapatkan Garansi 10 Hari
 
-### ––『 〄 ADMIN PANEL』––
+### ADMIN PANEL
 
-*> PROMO RAMADHAN*
 
 *≣ 1BLN/10K*
 
 *≣ PREMIUM (PERMA)/15K*
 
-### ––『 ⎚ PEMBAYARAN 』––
+### PEMBAYARAN
 
 - DANA
 
