@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ABOUT
-permalink: /
+permalink: /about/
 ---
 ### ZYINXX STORE
 SOLUS PANEL SERVER HOSTING
