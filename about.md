@@ -99,4 +99,4 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 
 ### HUBUNGI KAMI
 
-[email@domain.com](mailto:email@domain.com)
+[zyinxxhosting@gmail.com](zyinxxhosting@gmail.com)
