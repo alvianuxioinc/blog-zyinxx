@@ -13,6 +13,7 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 ### INFORMASI PANEL
 ╭–– 『 ZyinXX - Store 』
 
+
 ┆㊕ Menyediakan:
 
 ┆❏ Rename Bot Wa
@@ -28,9 +29,11 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 ┆> *Voice Server*
 
 ┆> *Bot Discord*
+
 ╰–––––––––––––––
 
-╭––『 PRICE & LIST 』 –––––––––––
+╭––『 PRICE & LIST 』 
+
 ┆→ ≣ PAKET 1:
 
 ┆ ➥ 1GiB/20% CPU  [2K]
@@ -41,7 +44,7 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 
 ┆→ ≣ PAKET 2:
 
- ➥ 5GiB/60% CPU [5K]
+┆ ➥ 5GiB/60% CPU [5K]
 
 ┆ ➥ 6GiB/70% CPU [7K]
 
@@ -60,26 +63,41 @@ Zyinxx Hosting adalah layanan web hosting yang menyediakan ruang server dan infr
 ┆ ➥ UNLI/UNLI% CPU [15K]
 
 ┆ ➥ BONUS SC BOT WA
+
 ╰–––––––––––––––––––––––––––
 ### ––『 ✎ NOTES 』––
 *Keuntungan:*
+
 ✬ Panel On 24/7 
+
 ✬ Panel Tidak Lag
+
 ✬ Tidak Menguras Ram & Kuota
+
 ✬ Dijamin Panel Masih Fresh
+
 ✬ Login Bisa Menggunakan Apk/Website
+
 ✬ Pastinya Setiap Pembelian Di Sini Anda Akan Mendapatkan Garansi 10 Hari
 
 ### ––『 〄 ADMIN PANEL』––
+
 *> PROMO RAMADHAN*
+
 *≣ 1BLN/10K*
+
 *≣ PREMIUM (PERMA)/15K*
 
 ### ––『 ⎚ PEMBAYARAN 』––
+
 - DANA
+
 - GOPAY
+
 - PULSA
+
 - QRIS (ALLPAY)
+
 ### HUBUNGI KAMI
 
 [email@domain.com](mailto:email@domain.com)
