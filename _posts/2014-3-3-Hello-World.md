@@ -9,7 +9,7 @@ KLIK READ MORE UNTUK MELIHAT GUIDELINES 2.0
 
 ### GUIDELINES OWNER & ADMIN 2.0
 
-## RULES & GUIDELINES OWNER 2.0
+#### RULES & GUIDELINES OWNER 2.0
 
 UNTUK RULES & GUIDELINES LAMA MASIH BERLAKU NAMUN SAYA TAMBAH SEDIKIT. 
 
@@ -18,7 +18,7 @@ UNTUK RULES & GUIDELINES LAMA MASIH BERLAKU NAMUN SAYA TAMBAH SEDIKIT.
 3. Untuk hal kemarin saat panel suspend banyak owner yang tidak donasi, untuk skrg owner diwajibkan keras untuk melakukan donasi/sumbangan/patungan saat panel sedang bermasalah atau ada hal mendesak. Jika tidak maka akan di *CUT-OFF*.
 
 
-## RULES & GUIDELINES ADMIN 2.0
+#### RULES & GUIDELINES ADMIN 2.0
 
 UNTUK RULES & GUIDELINES LAMA MASIH BERLAKU NAMUN SAYA TAMBAH SEDIKIT. 
 
